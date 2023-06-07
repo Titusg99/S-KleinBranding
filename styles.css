@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-family: 'MuseoModerno', cursive;
+  }
+
+  .buttoncase {
+    font-family: 'MuseoModerno', cursive;
+    padding-right: 10px;
+  }
+
+
+
+  @media screen and (max-width: 1000px) {
+    .buttoncase {
+     padding-bottom: 10px;
+    }
+  }
+  
